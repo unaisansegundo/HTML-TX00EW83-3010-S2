@@ -1,0 +1,18 @@
+.contact-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  
+  .contact-info {
+    font-style: italic;
+  }
+  
+  .map {
+    background-color: #333;
+    color: white;
+    text-align: center;
+  }
+  body {
+    height: 60%;
+  }

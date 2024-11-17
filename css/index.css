@@ -1,0 +1,21 @@
+.home-image {
+    color: white;
+    padding: 8rem;
+    text-align: center;
+    margin: 2rem 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    display: block;
+  }
+  
+  .home-text {
+    text-align: center;
+    max-width: 85%;
+    margin: 0 auto;
+  } 
+  h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 3rem;
+}
